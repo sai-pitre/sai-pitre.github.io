@@ -13,7 +13,7 @@ Joint Estimation of Teacher and School Value-Added \\
 [with [Jesse Bruhn](https://www.jessebruhn.com/) and [Isaac Opper](https://sites.google.com/site/isaacopper/home)]
 
 - Pass-Through of Consumption Taxes under Political Pressure \\
-[with Kavya Ravindranath]
+[with [Kavya Ravindranath](https://kavya-ravindranath.github.io)]
 
 - Evaluating Theories of NGO Formation \\
 [with Prachi Shukla and Sanjana Kadyan]
